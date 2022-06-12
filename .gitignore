@@ -5,3 +5,6 @@
 
 /.quarto/
 *.Rproj
+.Rdata
+.httr-oauth
+.DS_Store
