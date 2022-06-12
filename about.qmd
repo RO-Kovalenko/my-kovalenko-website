@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 ---
-# Roman Kovalenko is a graduating political science BA student at Kyiv-Mohyla academy. He is going to continue his education in political science at Central European University. He is interested in process of democratization.
+# Roman Kovalenko was born in 2000, Ternopil, Ukraine. Roman is a graduating political science BA student at Kyiv-Mohyla academy. He is going to continue his education in political science at Central European University. He is interested in process of democratization.
 ---
 
 
