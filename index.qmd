@@ -1,0 +1,19 @@
+---
+title: "Roman Kovalenko"
+---
+
+## Roman Kovalenko is a graduating political science BA student at Kyiv-Mohyla academy. 
+
+## ![Photo of Roman Kovalenko](photo_2022-01-21_14-39-46.jpg)
+
+Articles:
+
+<https://voxukraine.org/politychni-poglyady-gromadyanskogo-suspilstva-vilna-ekonomika-obmezheni-svobody/>
+
+```{r}
+#| layout: [[45,-10, 45], [100]]
+
+plot(cars)
+plot(pressure)
+
+```
